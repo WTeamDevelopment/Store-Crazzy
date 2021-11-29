@@ -12,7 +12,7 @@ const $form = document.querySelector('#form');
 const buttonSubmit = document.querySelector('#submit');
 const urlDesktop = 'https://web.whatsapp.com/';
 const urlMobile = 'whatsapp://';
-const phone = '5527999981960'; // Se o número não existir ou for digitado errado, não irá abrir no whatsapp;
+const phone = '0000'; // Se o número não existir ou for digitado errado, não irá abrir no whatsapp;
 
 
 $form.addEventListener('submit', (event) => {

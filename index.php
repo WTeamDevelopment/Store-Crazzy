@@ -46,7 +46,7 @@
     <header>
         <div class="horizontal menupage">
             <a href="<?= $_SERVER["REQUEST_URI"]; ?>" style="text-decoration: none;"><h2> © Crazzy Store</h2></a>
-            <a href="https://api.whatsapp.com/send?phone=558981326247" style="text-decoration: none;" target="_blank"><div class="comprovante">Comprovante de Pagamento</div></a>
+            <a href="https://api.whatsapp.com/send?phone=0000" style="text-decoration: none;" target="_blank"><div class="comprovante">Comprovante de Pagamento</div></a>
         </div>
         <div class="vertical menupage">
             <ul>

@@ -42,7 +42,7 @@
         <div class="horizontal menupage">
             <h2>
                  © Crazzy Store
-            <a href="https://api.whatsapp.com/send?phone=5527999981960" style="text-decoration: none;"><div class="comprovante">Comprovante de Pagamento</div></a>
+            <a href="https://api.whatsapp.com/send?phone=0000" style="text-decoration: none;"><div class="comprovante">Comprovante de Pagamento</div></a>
             </h2>
         </div>
         <div class="vertical menupage">

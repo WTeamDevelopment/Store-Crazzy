@@ -20,7 +20,7 @@
     <container>
         <div class="content">
             <div class="container">
-            <a href="https://api.whatsapp.com/send?phone=5522981356171" style="text-decoration: none;" target="_blank"><div class="comprovante">Comprovante de Pagamento</div></a>
+            <a href="https://api.whatsapp.com/send?phone=000" style="text-decoration: none;" target="_blank"><div class="comprovante">Comprovante de Pagamento</div></a>
                 <div class="destaques">
                     <h3>
                         Lella Hotel

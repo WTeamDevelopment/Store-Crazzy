@@ -1,0 +1,29 @@
+@media only screen and (max-width: 1400px) {
+    .container {
+        transform: translateX(-50%);
+        left: 55%;
+        position: absolute;
+        padding: 40px;
+    }
+}
+
+@media only screen and (max-width: 1200px) {
+    .container {
+        transform: translateX(-50%);
+        left: 65%;
+        position: absolute;
+        padding: 40px;
+    }
+    .right-lado{
+        display: none;
+    }
+}
+
+@media only screen and (max-width: 360px) {
+    .vertical.menupage {
+        display: none;
+    }
+    .category{
+        display: none;
+    }
+}
